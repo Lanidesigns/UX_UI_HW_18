@@ -94,5 +94,9 @@ padding: 50px;
 
 .workGrid {
     display: grid;
+    justify-content: center;
+}
 
+.MyWork{
+    align-items: center;
 }
