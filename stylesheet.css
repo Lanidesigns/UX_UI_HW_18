@@ -77,3 +77,22 @@ box-shadow: 0.8em;
 .MyWork h1 {
     text-align: center;
 }
+
+.flexContainer {
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+}
+
+.child1{
+padding: 50px;
+}
+
+.child2{
+padding: 50px;
+}
+
+.workGrid {
+    display: grid;
+
+}
